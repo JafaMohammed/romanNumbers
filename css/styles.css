@@ -1,0 +1,23 @@
+.jumbotron{
+  text-align: center;
+  background-color:  #0FE198;
+
+  animation: bounce 1.2s;
+  font-family: cursive;
+  letter-spacing: 2px;
+  font-size: 8vw;
+
+}
+
+#Roww {
+  text-align: center;
+
+}
+.output{
+  text-align: center;
+  font-style: oblique;
+  font-family: sans-serif;
+  color: black;
+  font-size: 100px;
+
+}
